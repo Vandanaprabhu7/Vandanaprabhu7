@@ -7,7 +7,6 @@ Skills: C/C++ / HTML / CSS
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vandanaprabhu7)](https://github.com/Vandanaprabhu7/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vandanaprabhu7&show_icons=true)  
 
