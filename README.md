@@ -1,4 +1,4 @@
-![Example Image](./logo.jpg)
+![image](C:\Users\manasa\OneDrive\Desktop/logo.jpg)
 ### Hi there 👋, I'm Vandana Prabhu
 #### I am pursuing B.E. in Computer Science
 
