@@ -1,4 +1,4 @@
-![image](./logo.jpg)
+![image](./logo.png)
 ### Hi there 👋, I'm Vandana Prabhu
 #### I am pursuing B.E. in Computer Science
 
